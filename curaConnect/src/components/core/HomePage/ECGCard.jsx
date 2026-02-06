@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../../../../assets/Images/CuraConnectLogo.png";
+import logo from "../../../assets/Images/CuraConnectLogo.png";
 
 function ECGCard() {
   return (
